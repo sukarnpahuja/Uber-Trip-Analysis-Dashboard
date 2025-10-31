@@ -50,5 +50,3 @@ The project showcases advanced data modeling, DAX measures, and interactive visu
 - **Interactive visuals: line charts, pie charts, bar graphs, slicers, and page navigators**
 
 ---
-
-## 📁 Repository Structure
